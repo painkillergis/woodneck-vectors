@@ -3,10 +3,7 @@
 ## Setup
 
 ```
-devops/aws:create-bucket
-devops/aws:put-bucket-website
-devops/aws:put-bucket-policy
-devops/aws:put-bucket-cors
+devops/aws:s3/create-bucket
 devops/aws:acm/request-certificate
 devops/aws:cloudfront/create-distribution
 devops/aws:route53/create-cname

@@ -1,3 +1,0 @@
-aws s3api create-bucket \
-  --acl public-read \
-  --bucket woodneck-vectors.painkillergis.com

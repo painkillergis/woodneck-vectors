@@ -1,4 +1,0 @@
-#!/bin/zsh
-aws s3api put-bucket-policy \
-  --bucket woodneck-vectors.painkillergis.com \
-  --policy file://devops/s3-bucket-policy.json

@@ -1,4 +1,0 @@
-#!/bin/zsh
-aws s3api put-bucket-website \
-  --bucket woodneck-vectors.painkillergis.com \
-  --website-configuration file://devops/s3-website-configuration.json
