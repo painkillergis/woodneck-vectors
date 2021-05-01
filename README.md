@@ -9,4 +9,5 @@ devops/aws:put-bucket-policy
 devops/aws:put-bucket-cors
 devops/aws:acm/request-certificate
 devops/aws:cloudfront/create-distribution
+devops/aws:route53/create-cname
 ```
